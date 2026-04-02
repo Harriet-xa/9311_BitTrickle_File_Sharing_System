@@ -52,5 +52,4 @@ The client is designed with multithreading to support:
 ├── client.py
 ├── server.py
 ├── credentials.txt   # server-side only, not committed in real submission
-├── helpers.py        # optional
 └── report.pdf
